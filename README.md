@@ -16,10 +16,9 @@ Host paths (expected)
     overseerr/config/ portal/www/
 
 /Misc/plexStack/
-  media//{Movies,Shows}
-  transfer/{incomplete,complete,watch}
-  apps/
-		plex/config/  transmission/{config,watch}
+media//{Movies,Shows}
+transfer/{incomplete,complete,watch}
+apps/
 
 
 External ports (host → container)
