@@ -1,9 +1,9 @@
-plexStack — Plex + Arrs + Transmission + Prowlarr (via torproxy) + Portal
+plexStack - Plex + Arrs + Transmission + Prowlarr (via torproxy) + Portal
 
 Operator notes. Keep internals on plexStackNetwork, expose only the ports you need.
 
-What’s in the stack
-	•	Plex, Transmission, Sonarr, Radarr, Prowlarr (behind torproxy), Overseerr, Portal (nginx)
+What's in the stack
+	-	Plex, Transmission, Sonarr, Radarr, Prowlarr (behind torproxy), Overseerr, Portal (nginx)
 
 Host paths (expected)
 
