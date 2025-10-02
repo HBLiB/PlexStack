@@ -15,6 +15,13 @@ Host paths (expected)
     sonarr/config/ radarr/config/ prowlarr/config/
     overseerr/config/ portal/www/
 
+/Misc/plexStack/
+  media//{Movies,Shows}
+  transfer/{incomplete,complete,watch}
+  apps/
+		plex/config/  transmission/{config,watch}
+
+
 External ports (host → container)
 	•	Portal 61000→80, Overseerr 61055→5055, Sonarr 61089→8989, Radarr 61078→7878,
 Transmission UI 61091→9091, Transmission peers 61413 TCP/UDP→61413,
